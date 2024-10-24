@@ -9,9 +9,24 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "symfony",
-            "database": "symfony",
-            "username": "symfony"
+            "name": "bdd",
+            "database": "bddsymfony",
+            "username": "cire",
+            "password": "Cire445#"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "bddsymfony",
+            "username": "root",
+            "name": "tes",
+            "password": "cire"
         }
     ]
 }
